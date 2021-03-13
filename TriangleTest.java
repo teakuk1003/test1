@@ -22,7 +22,7 @@ class Triangle {
 
 //	public boolean isSameArea(Triangle t) { // 2번 문제
 //		return this.findArea() == t.findArea(); // 2번 문제
-//	} // 2번 문제
+=
 }
 
 public class TriangleTest {
