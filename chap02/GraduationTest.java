@@ -2,7 +2,7 @@ package chap02;
 
 import java.util.Scanner;
 
-public class GraduationTest {asdfasdf
+public class GraduationTest {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
